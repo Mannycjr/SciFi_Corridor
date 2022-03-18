@@ -1,3 +1,19 @@
 {
-    "uploadEntries": []
+    "uploadEntries": [
+        {
+            "AltspaceId": "1931099567596503446",
+            "Name": "Energy Cell MYC",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets\\Prefabs\\1931099567596503446_energy_cell_myc\\EnergyCell_1_1.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
 }
