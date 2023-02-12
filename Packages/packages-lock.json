@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.microsoft.altspacevr_uploader": {
-      "version": "file:D:/_UniverseVR/AdvUnityVR/Resources/com.microsoft.altspacevr_uploader-2.2.19.tgz",
+      "version": "file:C:/AltspaceVR/com.microsoft.altspacevr_uploader-2.2.19.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
@@ -194,7 +194,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.oculus": {
-      "version": "1.11.0",
+      "version": "1.8.1",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -336,18 +336,6 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.modules.ui": "1.0.0",
-        "com.unity.modules.imgui": "1.0.0",
-        "com.unity.modules.jsonserialize": "1.0.0",
-        "com.unity.modules.uielementsnative": "1.0.0"
-      }
-    },
-    "com.unity.modules.uielementsnative": {
-      "version": "1.0.0",
-      "depth": 1,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
       }
